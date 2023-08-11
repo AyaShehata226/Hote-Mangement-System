@@ -1,1 +1,2 @@
-# SingUp_LogIn
+# Project
+Graduation Project
